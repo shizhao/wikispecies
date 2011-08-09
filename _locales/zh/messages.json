@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "维基物种",
+    "description": "name"
+  },
+  "desc": {
+    "message": "维基物种是一个任何人都可以自由编辑的物种目录。维基物种是自由的，因为生命是属于公有的！",
+    "description": "description"
+  },
+  "notice": {
+    "message": "你有新消息。",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "通知：",
+    "description": "notification"
+  },
+  "mp": {
+    "message": "http://species.wikimedia.org/wiki/%E9%A6%96%E9%A1%B5",
+    "description": "main page url"
+  }
+}

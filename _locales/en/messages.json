@@ -1,0 +1,22 @@
+{
+  "name": {
+    "message": "Wikispecies",
+    "description": "name"
+  },
+  "desc": {
+    "message": "Wikispecies, The free species directory that anyone can edit. Wikispecies is free, because life is in the public domain!",
+    "description": "description"
+  },
+  "notice": {
+    "message": "You have new messages.",
+    "description": "notification"
+  },
+  "bnotice": {
+    "message": "Notice:",
+    "description": "notification"
+  },
+  "mp": {
+    "message": "http://species.wikimedia.org/wiki/Main_Page",
+    "description": "main page url"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "__MSG_name__",
+  "description": "__MSG_desc__",
+  "version": "3",
+  "app": {
+    "launch": {
+      "local_path": "main.html"
+    }
+  },
+  "icons": {
+    "16": "Wikispecies-logo-16.png",
+    "128": "Wikispecies-logo.png"
+  },
+  "default_locale": "en",
+  "permissions": [
+    "http://species.wikimedia.org/*",
+    "unlimitedStorage",
+    "notifications"
+  ],
+  "background_page" : "background.html"
+}
